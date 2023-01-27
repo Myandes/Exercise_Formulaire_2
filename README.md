@@ -32,8 +32,8 @@ On peut aussi laisser un commentaire pour dire à quel point on tient à son fer
     - On doit avoir plus de patates que de pommes
     - Le pseudonyme comporte de 3-9 caractères
   
-5. Afficher le nombre de patates sélectionné à l'aide de JavaScript
-6. Vérifier les éléments suivants et corriger au besoin votre travail
+4. Afficher le nombre de patates sélectionné à l'aide de JavaScript
+5. Vérifier les éléments suivants et corriger au besoin votre travail
 
     - [ ] Toutes les données sont validées
     - [ ] Les utilisatrices et les utilisateurs sont informés des restrictions
